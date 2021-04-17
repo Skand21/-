@@ -67,6 +67,7 @@ html, body{
 .maintext{
   color: black;
   font-size: 120%;
+  text-shadow: rgb(170, 84, 204) 0 0 2px;
   letter-spacing: 2px;
   text-align: center;
 }
@@ -84,6 +85,7 @@ html, body{
 
 #textcontent{
   color: black;
+  text-shadow: rgb(8, 70, 70) 0 0 2px;
   font-size: 120%;
   letter-spacing: 2px;
 }
